@@ -5,7 +5,7 @@ AI/ML Engineer focused on applied NLP and agentic systems (RAG, LLM tool-use, MC
 ## Currently
 - Building agentic tools using LangGraph + Model Context Protocol (MCP)
 - Deepening fundamentals in classical ML and NLP (see `nlp-ml-fundamentals`)
-- Open to [internship/junior ML engineer/whatever your actual target role is]
+- Open to junior ML engineer roles 
 
 ## Featured Projects
 - **[expense-tracker-mcp-server](https://github.com/ranarabi-dev/expense-tracker-mcp-server)** — Custom MCP tool for expense tracking, wired into a LangGraph agent
